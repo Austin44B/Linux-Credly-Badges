@@ -132,9 +132,13 @@ In earning the [Linux+ Security](https://www.credly.com/badges/08965461-6dc3-4f9
 As much as we could wish the best behavior from all those around us, there are those who are interested in pushing beyond boundaries to see what lies beyond. And from this, perhaps there is some information we wouldn't like to give out freely, so let's take a look at the Security badge for Linux+.
 
 Starting off with configuring a firewall to control inbound and outbound information, like in the case of a server that supports a website and custom applications using non-standard port number. A good tool to scan firewalls is the Nmap utulity.
+
 Following up the configuration of a firewall, is using Wireshark and tcpdump to intercept and display relevant information on a local network. After setting up a firewall, it is useful for security assessments to interpret the output of network traffic using these tools. 
+
 Another key fundamental in security as a Linux Admin is hardening a Linux system by managing processes, software, sshd daemon, and umask. It can be especially helpful to understand how to harden a linux system when evaluating the security configuration for a system that is a database server. Uninstalling software that does not meet a server's purpose, setting security controls on directories, altering a system's umask and limiting access to a system via multiple methods.
+
 Verifying file integrity using hashes is also a security fundamental to have understanding of. Detecting whether files have changed which helps security administrators understand the integrity of the contents. One can discover whether files have changed by using MD5 and SHA1 hash algorithms. Managing potential unexpected changed to files is important as changes may result from edits made by users or changes that may have been made by malicious threat actors, even file corruption during online downloads is worth monitoring. 
+
 Lastly we have Security-Enhanced Linux (SELinux) which is a Linux kernel security module that provides a mechanism for supporting access control security policies, including mandatory access controls (MAC). With SELiunx we can evaluate and correct a system's security be assessing a SELinux status, and permanently setting a system to enforcing even after being rebooted. 
 
 As always, Thank you for investing time in reading my blurb on what I learned will earning badges towards a Linux+ understanding, Have a wonderful day, and best wishes :) remember that we are all friends in life, enemies only exist within ourselves, so apply moral and ethical behavior to time invested utilizing the internet :)
