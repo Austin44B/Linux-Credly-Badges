@@ -178,5 +178,4 @@ Best Wishes and Sincerely,
 
 Austin Barber
 
-
-The CompTia Linux+ Automation badge covers exam objectives in sections, 1.1, 1.6, 3.1, 3.2, 3.3, 3.4, 3.5.![image](https://github.com/Austin44B/Linux-Credly-Badges/assets/134319619/2f50a191-e777-4abc-8aa6-f41cc9ecfd02)
+The CompTia Linux+ Automation badge covers exam objectives in sections, 1.1, 1.6, 3.1, 3.2, 3.3, 3.4, 3.5.
