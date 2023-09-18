@@ -18,7 +18,7 @@ Explanations of each badge earned through real world lab environments to test un
 
 <img width="268" alt="image" src="https://github.com/Austin44B/Linux-Credly-Badges/assets/134319619/861979c7-a22c-4d97-a579-745def653d5d">
 
-In earning the [Linux+ Architecture](https://www.credly.com/badges/4910a7b1-647b-445f-8be6-9a7b1fa4e67c/public_urlv![image](https://github.com/Austin44B/Linux-Credly-Badges/assets/134319619/78cde8d7-c8eb-423e-b718-479a129ffb4e)
+In earning the [Linux+ Architecture](https://www.credly.com/badges/4910a7b1-647b-445f-8be6-9a7b1fa4e67c/public_urlv
 ) badge : 
 
 There are many topics that were learned in achieving the architecture badge, And I will be going through them in more of a list style, with brief descriptions, I appreciate you taking the time to read my plethora of knowledge built through DA, If you have been reading other posts as well, I also appreciate you coming along with me through this journey, Stay Blessed :)
